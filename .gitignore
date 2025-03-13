@@ -1,0 +1,15 @@
+// files for angular
+node_modules
+dist
+e2e
+src/assets
+src/environments/environment.ts
+src/environments/environment.prod.ts
+
+//files for c#
+bin
+obj
+.vs
+.vscode
+*.suo
+*.user
